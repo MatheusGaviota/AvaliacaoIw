@@ -1,0 +1,16 @@
+.bg-forest{
+	background-color: #98FB98;
+}
+.bg-darkgreen{
+	background-color: #006400;
+}
+.texto-maior{
+	font-size: 2em; 
+}
+.pe-6{
+	margin-right: 10em;
+}
+.galeria{
+	border: 4px solid #006400;
+  	border-radius: 0.25rem;
+}
